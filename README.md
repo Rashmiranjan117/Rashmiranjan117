@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rashmiranjan-mahanta-281634202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmiranjan mahanta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rashmiranjan-mahanta-281634202/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmiranjan mahanta" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/rashmiranjan mahanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rashmiranjan mahanta" height="30" width="40" /></a> -->
 </p>
 
