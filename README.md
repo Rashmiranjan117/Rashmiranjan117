@@ -34,6 +34,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rashmiranjan117"/></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmiranjan117&show_icons=true&locale=en" alt="rashmiranjan117" /></p>
+<p>
+  <a> <img src="https://github-readme-stats.vercel.app/api?username=Rashmiranjan117&show_icons=true" /></a>
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmiranjan117&" alt="rashmiranjan117" /></p>
