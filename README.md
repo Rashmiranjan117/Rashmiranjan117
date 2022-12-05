@@ -40,9 +40,10 @@
 <hr/>
 <p>
   <a>
+<!--     https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmiranjan117&layout=compact&theme=chartreuse-dark&langs_count=8 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rashmiranjan117"/></a>
 </p>
-
+<!-- -->
 <p>
   <a> <img src="https://github-readme-stats.vercel.app/api?username=Rashmiranjan117&show_icons=true" /></a>
 </p>
