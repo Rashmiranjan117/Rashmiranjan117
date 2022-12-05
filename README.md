@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rashmiranjan007jb@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T6rrjn1ZjfbWQzQYBfY5ryO_9nuQlEP2/view?usp=sharing](https://drive.google.com/file/d/1T6rrjn1ZjfbWQzQYBfY5ryO_9nuQlEP2/view?usp=sharing)
+- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1T6rrjn1ZjfbWQzQYBfY5ryO_9nuQlEP2/view?usp=sharing">Resume</a>
 
 <hr marginTop="5px"/>
 
