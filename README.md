@@ -26,7 +26,7 @@
 </p>
 <hr/>
 
-<h3>Intrests</h3>
+<h3>Interests</h3>
 <ul>
   <li>I am passionate about reading novels in my free time and often spend time discussing these with friends.</li>
   <li>I am also an avid follower of the eSports scene and enjoy playing a variety of video games.</li>
