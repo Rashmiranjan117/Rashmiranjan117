@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmiranjan117&label=Profile%20views&color=0e75b6&style=flat" alt="rashmiranjan117" /> </p>
 
-- 🌱 I’m currently learning **Redux, Node, Express, Mongodb**
+- 🌱 I’m currently learning **Java, Sass**
 
 - 👨‍💻 All of my projects are available at [https://rashmiranjan117.github.io/](https://rashmiranjan117.github.io/)
 
