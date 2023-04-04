@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rashmiranjan117.github.io/](https://rashmiranjan117.github.io/)
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, JavaScript, Redux**
 
 - 📫 How to reach me **rashmiranjan007jb@gmail.com**
 
