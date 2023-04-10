@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rashmiranjan-mahanta-281634202/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/null/linkedin-2.png" alt="rashmiranjan mahanta" height="40" width="40" /></a>
   <a href="https://wa.me/+917978184908"><img src="https://img.icons8.com/color/48/null/whatsapp--v1.png" alt="Whats app"/></a>
-  <a href="https://www.instagram.com/rashmiranjan117/"><img src="https://img.icons8.com/fluency/48/null/instagram-new.png" alt="Instagram"/></a>
+<!--   <a href="https://www.instagram.com/rashmiranjan117/"><img src="https://img.icons8.com/fluency/48/null/instagram-new.png" alt="Instagram"/></a> -->
 </p>
 <hr/>
 
