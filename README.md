@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Sass.**
 
-- 👨‍💻 All of my projects are available at [(https://rashmiranjan117.github.io/))]([https://rashmiranjan117.github.io/])
+- 👨‍💻 All of my projects are available at ([https://rashmiranjan117.github.io/])([https://rashmiranjan117.github.io/])
 
 - 💬 Ask me about **React, JavaScript, Redux**
 
